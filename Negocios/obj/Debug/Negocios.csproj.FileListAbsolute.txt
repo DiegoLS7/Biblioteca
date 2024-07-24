@@ -1,0 +1,63 @@
+C:\Users\practicante3\Documents\Visual Studio 2012\Projects\Project10\Negocios\bin\Debug\Negocios.dll
+C:\Users\practicante3\Documents\Visual Studio 2012\Projects\Project10\Negocios\bin\Debug\Negocios.pdb
+C:\Users\practicante3\Documents\Visual Studio 2012\Projects\Project10\Negocios\bin\Debug\Datos.dll
+C:\Users\practicante3\Documents\Visual Studio 2012\Projects\Project10\Negocios\bin\Debug\Datos.pdb
+C:\Users\practicante3\Documents\Visual Studio 2012\Projects\Project10\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\practicante3\Documents\Visual Studio 2012\Projects\Project10\Negocios\obj\Debug\Negocios.Properties.Resources.resources
+C:\Users\practicante3\Documents\Visual Studio 2012\Projects\Project10\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+C:\Users\practicante3\Documents\Visual Studio 2012\Projects\Project10\Negocios\obj\Debug\Negocios.dll
+C:\Users\practicante3\Documents\Visual Studio 2012\Projects\Project10\Negocios\obj\Debug\Negocios.pdb
+E:\ProyectosVS\ControlArriendos\ControlArriendos\Negocios\bin\Debug\Negocios.dll
+E:\ProyectosVS\ControlArriendos\ControlArriendos\Negocios\bin\Debug\Negocios.pdb
+E:\ProyectosVS\ControlArriendos\ControlArriendos\Negocios\bin\Debug\Datos.dll
+E:\ProyectosVS\ControlArriendos\ControlArriendos\Negocios\bin\Debug\Datos.pdb
+E:\ProyectosVS\ControlArriendos\ControlArriendos\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+E:\ProyectosVS\ControlArriendos\ControlArriendos\Negocios\obj\Debug\Negocios.Properties.Resources.resources
+E:\ProyectosVS\ControlArriendos\ControlArriendos\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+E:\ProyectosVS\ControlArriendos\ControlArriendos\Negocios\obj\Debug\Negocios.dll
+E:\ProyectosVS\ControlArriendos\ControlArriendos\Negocios\obj\Debug\Negocios.pdb
+E:\ProyectosVS\Dimension\Control Equipos\Negocios\bin\Debug\Negocios.dll
+E:\ProyectosVS\Dimension\Control Equipos\Negocios\bin\Debug\Negocios.pdb
+E:\ProyectosVS\Dimension\Control Equipos\Negocios\bin\Debug\Datos.dll
+E:\ProyectosVS\Dimension\Control Equipos\Negocios\bin\Debug\Datos.pdb
+E:\ProyectosVS\Dimension\Control Equipos\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+E:\ProyectosVS\Dimension\Control Equipos\Negocios\obj\Debug\Negocios.Properties.Resources.resources
+E:\ProyectosVS\Dimension\Control Equipos\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+E:\ProyectosVS\Dimension\Control Equipos\Negocios\obj\Debug\Negocios.dll
+E:\ProyectosVS\Dimension\Control Equipos\Negocios\obj\Debug\Negocios.pdb
+E:\ProyectosVS\Dimension\ControlArriendos\Negocios\bin\Debug\Negocios.dll
+E:\ProyectosVS\Dimension\ControlArriendos\Negocios\bin\Debug\Negocios.pdb
+E:\ProyectosVS\Dimension\ControlArriendos\Negocios\bin\Debug\Datos.dll
+E:\ProyectosVS\Dimension\ControlArriendos\Negocios\bin\Debug\Datos.pdb
+E:\ProyectosVS\Dimension\ControlArriendos\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+E:\ProyectosVS\Dimension\ControlArriendos\Negocios\obj\Debug\Negocios.Properties.Resources.resources
+E:\ProyectosVS\Dimension\ControlArriendos\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+E:\ProyectosVS\Dimension\ControlArriendos\Negocios\obj\Debug\Negocios.dll
+E:\ProyectosVS\Dimension\ControlArriendos\Negocios\obj\Debug\Negocios.pdb
+E:\ProyectosVS\Dimension\ControlEQ\ControlArriendos_NJ\Negocios\bin\Debug\Negocios.dll
+E:\ProyectosVS\Dimension\ControlEQ\ControlArriendos_NJ\Negocios\bin\Debug\Negocios.pdb
+E:\ProyectosVS\Dimension\ControlEQ\ControlArriendos_NJ\Negocios\bin\Debug\Datos.dll
+E:\ProyectosVS\Dimension\ControlEQ\ControlArriendos_NJ\Negocios\bin\Debug\Datos.pdb
+E:\ProyectosVS\Dimension\ControlEQ\ControlArriendos_NJ\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+E:\ProyectosVS\Dimension\ControlEQ\ControlArriendos_NJ\Negocios\obj\Debug\Negocios.Properties.Resources.resources
+E:\ProyectosVS\Dimension\ControlEQ\ControlArriendos_NJ\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+E:\ProyectosVS\Dimension\ControlEQ\ControlArriendos_NJ\Negocios\obj\Debug\Negocios.dll
+E:\ProyectosVS\Dimension\ControlEQ\ControlArriendos_NJ\Negocios\obj\Debug\Negocios.pdb
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\Negocios\bin\Debug\Negocios.dll
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\Negocios\bin\Debug\Negocios.pdb
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\Negocios\bin\Debug\Datos.dll
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\Negocios\bin\Debug\Datos.pdb
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\Negocios\obj\Debug\Negocios.Properties.Resources.resources
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\Negocios\obj\Debug\Negocios.dll
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\Negocios\obj\Debug\Negocios.pdb
+C:\Proyectos Visual Studio\Dimension\Biblioteca\Biblioteca\Negocios\bin\Debug\Negocios.dll
+C:\Proyectos Visual Studio\Dimension\Biblioteca\Biblioteca\Negocios\bin\Debug\Negocios.pdb
+C:\Proyectos Visual Studio\Dimension\Biblioteca\Biblioteca\Negocios\bin\Debug\Datos.dll
+C:\Proyectos Visual Studio\Dimension\Biblioteca\Biblioteca\Negocios\bin\Debug\Datos.pdb
+C:\Proyectos Visual Studio\Dimension\Biblioteca\Biblioteca\Negocios\obj\Debug\Negocios.Properties.Resources.resources
+C:\Proyectos Visual Studio\Dimension\Biblioteca\Biblioteca\Negocios\obj\Debug\Negocios.csproj.GenerateResource.Cache
+C:\Proyectos Visual Studio\Dimension\Biblioteca\Biblioteca\Negocios\obj\Debug\Negocios.dll
+C:\Proyectos Visual Studio\Dimension\Biblioteca\Biblioteca\Negocios\obj\Debug\Negocios.pdb
+C:\Proyectos Visual Studio\Dimension\Biblioteca\Biblioteca\Negocios\obj\Debug\Negocios.csprojResolveAssemblyReference.cache

@@ -1,0 +1,146 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="ControlArriendos.MasterPage" %>
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>Biblioteca</title>
+	<meta name="description" content="Web Application" />
+	<meta name="keywords" content="web, application" />
+
+	<link href="css/main.css" rel="stylesheet" type="text/css" />
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+
+
+    <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+
+  
+    <style type="text/css">
+        .auto-style1 {
+            width: 1800px;
+            height: 954px;
+        }
+    </style>
+
+</head>
+
+<body>
+
+  <div class="sidebar close">
+  <div class="logo-details">
+    <i class='bx bx-library'></i>
+    <span class="logo_name">Biblioteca</span>
+  </div>
+  <ul class="nav-links">
+
+     <li>
+        <div class="iocn-link">
+          <a href="#">
+            <i class='bx bx-grid-alt' ></i>
+            <span class="link_name">Mantención</span>
+          </a>
+           <i class='bx bxs-chevron-down arrow' ></i>
+        </div>
+        <ul class="sub-menu">
+          <li><a href="/Mantencion/Libros.aspx">Libros</a></li>
+          <li><a href="/Mantencion/Lectores.aspx">Lectores</a></li>
+          <li><a href="/Mantencion/Editoriales.aspx">Editoriales</a></li>
+        </ul>
+      </li>
+
+
+     <li>
+        <div class="iocn-link">
+          <a href="#">
+            <i class='bx bx-collection' ></i>
+            <span class="link_name">Consultas  </span>
+          </a>
+           <i class='bx bxs-chevron-down arrow' ></i>
+        </div>
+        <ul class="sub-menu">
+          <li><a href="/Consultas/Consultas.aspx">Consulta Libros por Autor</a></li>
+          <li><a href="/Consultas/ConsultasPorEditorial.aspx">Consulta Libros por Editorial</a></li>
+          <li><a href="/Consultas/ConsultaPorUbicacion.aspx">Consulta Libros por Ubicación</a></li>
+          <li><a href="/Consultas/ConsultasLibrosPrestados.aspx">Consulta Libros Prestados</a></li>
+          <li><a href="/Consultas/ConsultaGeneral.aspx">Consulta General</a></li>
+        </ul>
+      </li>
+
+     <li>
+        <div class="iocn-link">
+          <a href="#">
+            <i class='bx bx-book-alt' ></i>
+            <span class="link_name">Prestamos</span>
+          </a>
+        </div>
+      </li>
+
+
+     <li>
+        <div class="iocn-link">
+          <a href="#">
+            <i class='bx bx-pie-chart-alt-2' ></i>
+            <span class="link_name">Devoluciones</span>
+          </a>
+           <i class='bx bxs-chevron-down arrow' ></i>
+        </div>
+      </li>
+  </ul>
+</div>
+  <section class="home-section">
+    <div class="home-content">
+      <i class='bx bx-menu' ></i>
+      <span class="text">Bibloteca</span>
+    </div>
+    <div class="imgContenedor">
+        <h1><img alt="" src="/Imagenes/R.jpg" style="width: 100%; height: 900px;" /></h1>
+    </div>
+  </section>
+
+  <script>
+      let arrow = document.querySelectorAll(".arrow");
+      for (var i = 0; i < arrow.length; i++) {
+          arrow[i].addEventListener("click", (e)=>{
+              let arrowParent = e.target.parentElement.parentElement;//selecting main parent of arrow
+          arrowParent.classList.toggle("showMenu");
+      });
+      }
+      let sidebar = document.querySelector(".sidebar");
+      let sidebarBtn = document.querySelector(".bx-menu");
+      console.log(sidebarBtn);
+      sidebarBtn.addEventListener("click", ()=>{
+          sidebar.classList.toggle("close");
+      });
+  </script>
+</body>
+    <body>
+    <form id="form1"  style="padding-bottom: -100px;" runat="server">
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+    </form>
+</body>
+</body>	
+
+<footer>
+    <center>
+	    <div id="footer" style="text-align: center; background-color: #ffe5f0; padding-top: 220px; width: 100%; ">
+		    <p class="right">Diseñado por  <a title="Diseño" href="http://www.Dimension.cl/">Diego Leon</a></p>
+		    <p>&copy; Copyright 2023 <a href="#">Biblioteca</a> &middot; Todos los derechos reservados</p>
+	    </div>
+    </center>
+</footer>
+
+</html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+
+</html>

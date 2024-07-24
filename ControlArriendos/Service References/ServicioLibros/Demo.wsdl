@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://serviciowebareainternet.dim.cl/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://serviciowebareainternet.dim.cl/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://serviciowebareainternet.dim.cl/">
+      <s:element name="AgregaLibro">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="titulo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="autor" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="editor" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="ubicacion" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AgregaLibroResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="AgregaLibroResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListaEjemplar">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListaEjemplarResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListaEjemplarResult" type="tns:ArrayOfEJEMPLAR" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfEJEMPLAR">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="EJEMPLAR" nillable="true" type="tns:EJEMPLAR" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="EJEMPLAR">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="CODLIB" type="s:decimal" />
+          <s:element minOccurs="0" maxOccurs="1" name="TITLIB" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="EDILIB" type="s:decimal" />
+          <s:element minOccurs="0" maxOccurs="1" name="AUTLIB" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UBILIB" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="ULTLEC" type="s:decimal" />
+          <s:element minOccurs="0" maxOccurs="1" name="DISPON" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="FECPRE" nillable="true" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="FECDEV" nillable="true" type="s:dateTime" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ListaEjemplarPorCodigo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="codigo" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListaEjemplarPorCodigoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListaEjemplarPorCodigoResult" type="tns:ArrayOfEJEMPLAR" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListaEjemplarDelimitado">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="delimitador" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListaEjemplarDelimitadoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListaEjemplarDelimitadoResult" type="tns:ArrayOfEJEMPLAR" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListEjemplarPorTituloORAutor">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Busqueda" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListEjemplarPorTituloORAutorResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListEjemplarPorTituloORAutorResult" type="tns:ArrayOfEJEMPLAR" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ModificaLibro">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="codigo" type="s:decimal" />
+            <s:element minOccurs="0" maxOccurs="1" name="titulo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="autor" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="editor" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="ubicacion" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="dispon" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ModificaLibroResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ModificaLibroResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="EliminaLibro">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="codigo" type="s:decimal" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="EliminaLibroResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="EliminaLibroResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="AgregaLibroSoapIn">
+    <wsdl:part name="parameters" element="tns:AgregaLibro" />
+  </wsdl:message>
+  <wsdl:message name="AgregaLibroSoapOut">
+    <wsdl:part name="parameters" element="tns:AgregaLibroResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListaEjemplarSoapIn">
+    <wsdl:part name="parameters" element="tns:ListaEjemplar" />
+  </wsdl:message>
+  <wsdl:message name="ListaEjemplarSoapOut">
+    <wsdl:part name="parameters" element="tns:ListaEjemplarResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListaEjemplarPorCodigoSoapIn">
+    <wsdl:part name="parameters" element="tns:ListaEjemplarPorCodigo" />
+  </wsdl:message>
+  <wsdl:message name="ListaEjemplarPorCodigoSoapOut">
+    <wsdl:part name="parameters" element="tns:ListaEjemplarPorCodigoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListaEjemplarDelimitadoSoapIn">
+    <wsdl:part name="parameters" element="tns:ListaEjemplarDelimitado" />
+  </wsdl:message>
+  <wsdl:message name="ListaEjemplarDelimitadoSoapOut">
+    <wsdl:part name="parameters" element="tns:ListaEjemplarDelimitadoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListEjemplarPorTituloORAutorSoapIn">
+    <wsdl:part name="parameters" element="tns:ListEjemplarPorTituloORAutor" />
+  </wsdl:message>
+  <wsdl:message name="ListEjemplarPorTituloORAutorSoapOut">
+    <wsdl:part name="parameters" element="tns:ListEjemplarPorTituloORAutorResponse" />
+  </wsdl:message>
+  <wsdl:message name="ModificaLibroSoapIn">
+    <wsdl:part name="parameters" element="tns:ModificaLibro" />
+  </wsdl:message>
+  <wsdl:message name="ModificaLibroSoapOut">
+    <wsdl:part name="parameters" element="tns:ModificaLibroResponse" />
+  </wsdl:message>
+  <wsdl:message name="EliminaLibroSoapIn">
+    <wsdl:part name="parameters" element="tns:EliminaLibro" />
+  </wsdl:message>
+  <wsdl:message name="EliminaLibroSoapOut">
+    <wsdl:part name="parameters" element="tns:EliminaLibroResponse" />
+  </wsdl:message>
+  <wsdl:portType name="DemoSoap">
+    <wsdl:operation name="AgregaLibro">
+      <wsdl:input message="tns:AgregaLibroSoapIn" />
+      <wsdl:output message="tns:AgregaLibroSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListaEjemplar">
+      <wsdl:input message="tns:ListaEjemplarSoapIn" />
+      <wsdl:output message="tns:ListaEjemplarSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListaEjemplarPorCodigo">
+      <wsdl:input message="tns:ListaEjemplarPorCodigoSoapIn" />
+      <wsdl:output message="tns:ListaEjemplarPorCodigoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListaEjemplarDelimitado">
+      <wsdl:input message="tns:ListaEjemplarDelimitadoSoapIn" />
+      <wsdl:output message="tns:ListaEjemplarDelimitadoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListEjemplarPorTituloORAutor">
+      <wsdl:input message="tns:ListEjemplarPorTituloORAutorSoapIn" />
+      <wsdl:output message="tns:ListEjemplarPorTituloORAutorSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ModificaLibro">
+      <wsdl:input message="tns:ModificaLibroSoapIn" />
+      <wsdl:output message="tns:ModificaLibroSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="EliminaLibro">
+      <wsdl:input message="tns:EliminaLibroSoapIn" />
+      <wsdl:output message="tns:EliminaLibroSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="DemoSoap" type="tns:DemoSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="AgregaLibro">
+      <soap:operation soapAction="http://serviciowebareainternet.dim.cl/AgregaLibro" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListaEjemplar">
+      <soap:operation soapAction="http://serviciowebareainternet.dim.cl/ListaEjemplar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListaEjemplarPorCodigo">
+      <soap:operation soapAction="http://serviciowebareainternet.dim.cl/ListaEjemplarPorCodigo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListaEjemplarDelimitado">
+      <soap:operation soapAction="http://serviciowebareainternet.dim.cl/ListaEjemplarDelimitado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListEjemplarPorTituloORAutor">
+      <soap:operation soapAction="http://serviciowebareainternet.dim.cl/ListEjemplarPorTituloORAutor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ModificaLibro">
+      <soap:operation soapAction="http://serviciowebareainternet.dim.cl/ModificaLibro" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EliminaLibro">
+      <soap:operation soapAction="http://serviciowebareainternet.dim.cl/EliminaLibro" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="DemoSoap12" type="tns:DemoSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="AgregaLibro">
+      <soap12:operation soapAction="http://serviciowebareainternet.dim.cl/AgregaLibro" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListaEjemplar">
+      <soap12:operation soapAction="http://serviciowebareainternet.dim.cl/ListaEjemplar" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListaEjemplarPorCodigo">
+      <soap12:operation soapAction="http://serviciowebareainternet.dim.cl/ListaEjemplarPorCodigo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListaEjemplarDelimitado">
+      <soap12:operation soapAction="http://serviciowebareainternet.dim.cl/ListaEjemplarDelimitado" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListEjemplarPorTituloORAutor">
+      <soap12:operation soapAction="http://serviciowebareainternet.dim.cl/ListEjemplarPorTituloORAutor" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ModificaLibro">
+      <soap12:operation soapAction="http://serviciowebareainternet.dim.cl/ModificaLibro" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EliminaLibro">
+      <soap12:operation soapAction="http://serviciowebareainternet.dim.cl/EliminaLibro" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Demo">
+    <wsdl:port name="DemoSoap" binding="tns:DemoSoap">
+      <soap:address location="http://serviciowebareainternet.dim.cl/Demo.asmx" />
+    </wsdl:port>
+    <wsdl:port name="DemoSoap12" binding="tns:DemoSoap12">
+      <soap12:address location="http://serviciowebareainternet.dim.cl/Demo.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

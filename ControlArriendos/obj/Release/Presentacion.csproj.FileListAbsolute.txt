@@ -1,0 +1,15 @@
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\bin\ControlArriendos.dll
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\bin\ControlArriendos.pdb
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\bin\Negocios.dll
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\bin\Datos.dll
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\bin\Negocios.pdb
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\bin\Datos.pdb
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\obj\Release\Presentacion.csprojResolveAssemblyReference.cache
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\obj\Release\RdlCompile.cache
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\obj\Release\RdlCompile.compiled
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\obj\Release\ControlArriendos.dll
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\obj\Release\ControlArriendos.pdb
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\bin\HtmlAgilityPack.dll
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\bin\Microsoft.Data.OData.dll
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\bin\Microsoft.Data.Edm.dll
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\bin\Microsoft.WindowsAzure.Storage.xml

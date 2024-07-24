@@ -1,0 +1,152 @@
+C:\Users\practicante3\Documents\Visual Studio 2012\Projects\Project10\ControlArriendos\obj\Debug\RdlCompile.cache
+C:\Users\practicante3\Documents\Visual Studio 2012\Projects\Project10\ControlArriendos\obj\Debug\RdlCompile.compiled
+C:\Users\practicante3\Documents\Visual Studio 2012\Projects\Project10\ControlArriendos\bin\ControlArriendos.dll
+C:\Users\practicante3\Documents\Visual Studio 2012\Projects\Project10\ControlArriendos\bin\ControlArriendos.pdb
+C:\Users\practicante3\Documents\Visual Studio 2012\Projects\Project10\ControlArriendos\bin\Negocios.dll
+C:\Users\practicante3\Documents\Visual Studio 2012\Projects\Project10\ControlArriendos\bin\Datos.dll
+C:\Users\practicante3\Documents\Visual Studio 2012\Projects\Project10\ControlArriendos\bin\Negocios.pdb
+C:\Users\practicante3\Documents\Visual Studio 2012\Projects\Project10\ControlArriendos\bin\Datos.pdb
+C:\Users\practicante3\Documents\Visual Studio 2012\Projects\Project10\ControlArriendos\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\practicante3\Documents\Visual Studio 2012\Projects\Project10\ControlArriendos\obj\Debug\ControlArriendos.dll
+C:\Users\practicante3\Documents\Visual Studio 2012\Projects\Project10\ControlArriendos\obj\Debug\ControlArriendos.pdb
+C:\Users\practicante3\Documents\Visual Studio 2012\Projects\Project10\ControlArriendos\bin\AjaxControlToolkit.dll
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\bin\ControlArriendos.dll
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\bin\ControlArriendos.pdb
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\bin\Negocios.dll
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\bin\Datos.dll
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\bin\Negocios.pdb
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\bin\Datos.pdb
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\obj\Debug\ControlArriendos.dll
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\obj\Debug\ControlArriendos.pdb
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\bin\HtmlAgilityPack.dll
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\bin\Microsoft.Data.OData.dll
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\bin\Microsoft.Data.Edm.dll
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\bin\Microsoft.WindowsAzure.Storage.xml
+E:\ProyectosVS\Dimension\Control Equipos\ControlArriendos\bin\ControlArriendos.dll
+E:\ProyectosVS\Dimension\Control Equipos\ControlArriendos\bin\ControlArriendos.pdb
+E:\ProyectosVS\Dimension\Control Equipos\ControlArriendos\bin\Negocios.dll
+E:\ProyectosVS\Dimension\Control Equipos\ControlArriendos\bin\HtmlAgilityPack.dll
+E:\ProyectosVS\Dimension\Control Equipos\ControlArriendos\bin\Microsoft.Data.OData.dll
+E:\ProyectosVS\Dimension\Control Equipos\ControlArriendos\bin\Datos.dll
+E:\ProyectosVS\Dimension\Control Equipos\ControlArriendos\bin\Microsoft.Data.Edm.dll
+E:\ProyectosVS\Dimension\Control Equipos\ControlArriendos\bin\Microsoft.WindowsAzure.Storage.xml
+E:\ProyectosVS\Dimension\Control Equipos\ControlArriendos\bin\Negocios.pdb
+E:\ProyectosVS\Dimension\Control Equipos\ControlArriendos\bin\Datos.pdb
+E:\ProyectosVS\Dimension\Control Equipos\ControlArriendos\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+E:\ProyectosVS\Dimension\Control Equipos\ControlArriendos\obj\Debug\RdlCompile.cache
+E:\ProyectosVS\Dimension\Control Equipos\ControlArriendos\obj\Debug\RdlCompile.compiled
+E:\ProyectosVS\Dimension\Control Equipos\ControlArriendos\obj\Debug\ControlArriendos.dll
+E:\ProyectosVS\Dimension\Control Equipos\ControlArriendos\obj\Debug\ControlArriendos.pdb
+E:\ProyectosVS\Dimension\ControlArriendos\ControlArriendos\bin\ControlArriendos.dll
+E:\ProyectosVS\Dimension\ControlArriendos\ControlArriendos\bin\ControlArriendos.pdb
+E:\ProyectosVS\Dimension\ControlArriendos\ControlArriendos\bin\Negocios.dll
+E:\ProyectosVS\Dimension\ControlArriendos\ControlArriendos\bin\HtmlAgilityPack.dll
+E:\ProyectosVS\Dimension\ControlArriendos\ControlArriendos\bin\Microsoft.Data.OData.dll
+E:\ProyectosVS\Dimension\ControlArriendos\ControlArriendos\bin\Datos.dll
+E:\ProyectosVS\Dimension\ControlArriendos\ControlArriendos\bin\Microsoft.Data.Edm.dll
+E:\ProyectosVS\Dimension\ControlArriendos\ControlArriendos\bin\Microsoft.WindowsAzure.Storage.xml
+E:\ProyectosVS\Dimension\ControlArriendos\ControlArriendos\bin\Negocios.pdb
+E:\ProyectosVS\Dimension\ControlArriendos\ControlArriendos\bin\Datos.pdb
+E:\ProyectosVS\Dimension\ControlArriendos\ControlArriendos\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+E:\ProyectosVS\Dimension\ControlArriendos\ControlArriendos\obj\Debug\RdlCompile.cache
+E:\ProyectosVS\Dimension\ControlArriendos\ControlArriendos\obj\Debug\RdlCompile.compiled
+E:\ProyectosVS\Dimension\ControlArriendos\ControlArriendos\obj\Debug\ControlArriendos.dll
+E:\ProyectosVS\Dimension\ControlArriendos\ControlArriendos\obj\Debug\ControlArriendos.pdb
+E:\ProyectosVS\Dimension\ControlEQ\ControlArriendos_NJ\ControlArriendos\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+E:\ProyectosVS\Dimension\ControlEQ\ControlArriendos_NJ\ControlArriendos\obj\Debug\RdlCompile.cache
+E:\ProyectosVS\Dimension\ControlEQ\ControlArriendos_NJ\ControlArriendos\obj\Debug\RdlCompile.compiled
+E:\ProyectosVS\Dimension\ControlEQ\ControlArriendos_NJ\ControlArriendos\obj\Debug\ControlArriendos.dll
+E:\ProyectosVS\Dimension\ControlEQ\ControlArriendos_NJ\ControlArriendos\bin\ControlArriendos.dll
+E:\ProyectosVS\Dimension\ControlEQ\ControlArriendos_NJ\ControlArriendos\bin\ControlArriendos.pdb
+E:\ProyectosVS\Dimension\ControlEQ\ControlArriendos_NJ\ControlArriendos\bin\Negocios.dll
+E:\ProyectosVS\Dimension\ControlEQ\ControlArriendos_NJ\ControlArriendos\bin\HtmlAgilityPack.dll
+E:\ProyectosVS\Dimension\ControlEQ\ControlArriendos_NJ\ControlArriendos\bin\Microsoft.Data.OData.dll
+E:\ProyectosVS\Dimension\ControlEQ\ControlArriendos_NJ\ControlArriendos\bin\Datos.dll
+E:\ProyectosVS\Dimension\ControlEQ\ControlArriendos_NJ\ControlArriendos\bin\Microsoft.Data.Edm.dll
+E:\ProyectosVS\Dimension\ControlEQ\ControlArriendos_NJ\ControlArriendos\bin\Microsoft.WindowsAzure.Storage.xml
+E:\ProyectosVS\Dimension\ControlEQ\ControlArriendos_NJ\ControlArriendos\bin\Negocios.pdb
+E:\ProyectosVS\Dimension\ControlEQ\ControlArriendos_NJ\ControlArriendos\bin\Datos.pdb
+E:\ProyectosVS\Dimension\ControlEQ\ControlArriendos_NJ\ControlArriendos\obj\Debug\ControlArriendos.pdb
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\obj\Debug\RdlCompile.cache
+E:\ProyectosVS\ControlArriendos\ControlArriendos\ControlArriendos\obj\Debug\RdlCompile.compiled
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\bin\ControlArriendos.dll
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\bin\ControlArriendos.pdb
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\bin\Negocios.dll
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\bin\HtmlAgilityPack.dll
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\bin\Microsoft.Data.OData.dll
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\bin\Datos.dll
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\bin\Microsoft.Data.Edm.dll
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\bin\Microsoft.WindowsAzure.Storage.xml
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\bin\Negocios.pdb
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\bin\Datos.pdb
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\obj\Debug\RdlCompile.cache
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\obj\Debug\RdlCompile.compiled
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\obj\Debug\ControlArriendos.dll
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\obj\Debug\ControlArriendos.pdb
+E:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\bin\ControlArriendos.dll
+E:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\bin\ControlArriendos.pdb
+E:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\bin\Negocios.dll
+E:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\bin\HtmlAgilityPack.dll
+E:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\bin\Microsoft.Data.OData.dll
+E:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\bin\Datos.dll
+E:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\bin\Microsoft.Data.Edm.dll
+E:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\bin\Microsoft.WindowsAzure.Storage.xml
+E:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\bin\Negocios.pdb
+E:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\bin\Datos.pdb
+E:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+E:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\obj\Debug\RdlCompile.cache
+E:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\obj\Debug\RdlCompile.compiled
+E:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\obj\Debug\ControlArriendos.dll
+E:\ProyectosVS\ControlArriendos\ControlArriendos20180823\ControlArriendos\obj\Debug\ControlArriendos.pdb
+C:\Proyectos Visual Studio\Dimension\ProyectoControlEquipos\ControlEquipos\ControlArriendos\bin\ControlArriendos.dll
+C:\Proyectos Visual Studio\Dimension\ProyectoControlEquipos\ControlEquipos\ControlArriendos\bin\ControlArriendos.pdb
+C:\Proyectos Visual Studio\Dimension\ProyectoControlEquipos\ControlEquipos\ControlArriendos\bin\Negocios.dll
+C:\Proyectos Visual Studio\Dimension\ProyectoControlEquipos\ControlEquipos\ControlArriendos\bin\HtmlAgilityPack.dll
+C:\Proyectos Visual Studio\Dimension\ProyectoControlEquipos\ControlEquipos\ControlArriendos\bin\Microsoft.Data.OData.dll
+C:\Proyectos Visual Studio\Dimension\ProyectoControlEquipos\ControlEquipos\ControlArriendos\bin\Datos.dll
+C:\Proyectos Visual Studio\Dimension\ProyectoControlEquipos\ControlEquipos\ControlArriendos\bin\Microsoft.Data.Edm.dll
+C:\Proyectos Visual Studio\Dimension\ProyectoControlEquipos\ControlEquipos\ControlArriendos\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Proyectos Visual Studio\Dimension\ProyectoControlEquipos\ControlEquipos\ControlArriendos\bin\Negocios.pdb
+C:\Proyectos Visual Studio\Dimension\ProyectoControlEquipos\ControlEquipos\ControlArriendos\bin\Datos.pdb
+C:\Proyectos Visual Studio\Dimension\ProyectoControlEquipos\ControlEquipos\ControlArriendos\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Proyectos Visual Studio\Dimension\ProyectoControlEquipos\ControlEquipos\ControlArriendos\obj\Debug\RdlCompile.cache
+C:\Proyectos Visual Studio\Dimension\ProyectoControlEquipos\ControlEquipos\ControlArriendos\obj\Debug\RdlCompile.compiled
+C:\Proyectos Visual Studio\Dimension\ProyectoControlEquipos\ControlEquipos\ControlArriendos\obj\Debug\ControlArriendos.dll
+C:\Proyectos Visual Studio\Dimension\ProyectoControlEquipos\ControlEquipos\ControlArriendos\obj\Debug\ControlArriendos.pdb
+C:\Proyectos Visual Studio\Dimension\Biblioteca\ControlEquipos\ControlArriendos\bin\ControlArriendos.dll
+C:\Proyectos Visual Studio\Dimension\Biblioteca\ControlEquipos\ControlArriendos\bin\ControlArriendos.pdb
+C:\Proyectos Visual Studio\Dimension\Biblioteca\ControlEquipos\ControlArriendos\bin\Negocios.dll
+C:\Proyectos Visual Studio\Dimension\Biblioteca\ControlEquipos\ControlArriendos\bin\HtmlAgilityPack.dll
+C:\Proyectos Visual Studio\Dimension\Biblioteca\ControlEquipos\ControlArriendos\bin\Microsoft.Data.OData.dll
+C:\Proyectos Visual Studio\Dimension\Biblioteca\ControlEquipos\ControlArriendos\bin\Datos.dll
+C:\Proyectos Visual Studio\Dimension\Biblioteca\ControlEquipos\ControlArriendos\bin\Microsoft.Data.Edm.dll
+C:\Proyectos Visual Studio\Dimension\Biblioteca\ControlEquipos\ControlArriendos\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Proyectos Visual Studio\Dimension\Biblioteca\ControlEquipos\ControlArriendos\bin\Negocios.pdb
+C:\Proyectos Visual Studio\Dimension\Biblioteca\ControlEquipos\ControlArriendos\bin\Datos.pdb
+C:\Proyectos Visual Studio\Dimension\Biblioteca\ControlEquipos\ControlArriendos\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Proyectos Visual Studio\Dimension\Biblioteca\ControlEquipos\ControlArriendos\obj\Debug\ControlArriendos.dll
+C:\Proyectos Visual Studio\Dimension\Biblioteca\ControlEquipos\ControlArriendos\obj\Debug\ControlArriendos.pdb
+C:\d\Biblioteca\ControlArriendos\bin\ControlArriendos.dll
+C:\d\Biblioteca\ControlArriendos\bin\ControlArriendos.pdb
+C:\d\Biblioteca\ControlArriendos\bin\Negocios.dll
+C:\d\Biblioteca\ControlArriendos\bin\HtmlAgilityPack.dll
+C:\d\Biblioteca\ControlArriendos\bin\Microsoft.Data.OData.dll
+C:\d\Biblioteca\ControlArriendos\bin\Datos.dll
+C:\d\Biblioteca\ControlArriendos\bin\Microsoft.Data.Edm.dll
+C:\d\Biblioteca\ControlArriendos\bin\Microsoft.WindowsAzure.Storage.xml
+C:\d\Biblioteca\ControlArriendos\bin\Negocios.pdb
+C:\d\Biblioteca\ControlArriendos\bin\Datos.pdb
+C:\d\Biblioteca\ControlArriendos\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\d\Biblioteca\ControlArriendos\obj\Debug\ControlArriendos.dll
+C:\d\Biblioteca\ControlArriendos\obj\Debug\ControlArriendos.pdb
+C:\Proyectos Visual Studio\Dimension\Biblioteca\Biblioteca\ControlArriendos\bin\ControlArriendos.dll
+C:\Proyectos Visual Studio\Dimension\Biblioteca\Biblioteca\ControlArriendos\bin\ControlArriendos.pdb
+C:\Proyectos Visual Studio\Dimension\Biblioteca\Biblioteca\ControlArriendos\bin\Negocios.dll
+C:\Proyectos Visual Studio\Dimension\Biblioteca\Biblioteca\ControlArriendos\bin\Datos.dll
+C:\Proyectos Visual Studio\Dimension\Biblioteca\Biblioteca\ControlArriendos\bin\Negocios.pdb
+C:\Proyectos Visual Studio\Dimension\Biblioteca\Biblioteca\ControlArriendos\bin\Datos.pdb
+C:\Proyectos Visual Studio\Dimension\Biblioteca\Biblioteca\ControlArriendos\obj\Debug\ControlArriendos.dll
+C:\Proyectos Visual Studio\Dimension\Biblioteca\Biblioteca\ControlArriendos\obj\Debug\ControlArriendos.pdb
+C:\Proyectos Visual Studio\Dimension\Biblioteca\Biblioteca\ControlArriendos\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache

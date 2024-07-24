@@ -1,0 +1,85 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="ControlArriendos.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>Control Arriendos</title>
+	<meta name="description" content="Web Application" />
+	<meta name="keywords" content="web, application" />
+
+	<link href="css/main.css" rel="stylesheet" type="text/css" />
+  
+    <style type="text/css">
+        .auto-style1 {
+            width: 98px;
+            height: 69px;
+        }
+    </style>
+
+</head>
+<body>
+    
+
+    <div id="logo"  >
+       
+		<h1> <img alt="" id="ImgLogoDim" class="auto-style1" src="/Imagenes/Logo1.jpg"></h1>
+                            
+             
+	        <div id="header" >
+		        <h1>Control de Equipos</h1>
+           </div>
+            
+	</div>
+
+   
+
+
+	<div id="teaser">
+		<div class="wrap">
+			<div id="image"></div>
+			 
+                    <div id="Div1">
+                         <div id="Div2"  class="box">
+                              <ul>
+                                <li><a href="/Mantencion/Guias.aspx">Guías </a></li>
+                                <li><a href="/Mantencion/Ensambles.aspx">Ensambles</a></li>
+                                <li><a href="/Mantencion/Devoluciones.aspx">Devoluciones</a></li>
+                                <li><a href="/Mantencion/Clientes.aspx">Clientes</a></li>
+                                <li><a href="/Consultas/Consultas.aspx">Consultas</a></li>
+                                <li><a href="/Mantencion/Parametros.aspx">Parámetros</a></li>
+                              </ul>
+                        </div>
+               </div>
+
+			
+		</div>
+	</div>
+
+	
+    <body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+	
+		
+	<div id="footer">
+		<p class="right">Diseñado por  <a title="Diseño" href="http://www.Dimension.cl/">Dimensión S.A.</a></p>
+		<p>&copy; Copyright 2016 <a href="#">Control Arriendos</a> &middot; Todos los derechos reservados</p>
+	</div>
+</body>
+</html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+
+</html>

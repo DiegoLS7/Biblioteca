@@ -1,0 +1,7 @@
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\Datos\bin\Release\Datos.dll
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\Datos\bin\Release\Datos.pdb
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\Datos\obj\Release\Datos.csprojResolveAssemblyReference.cache
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\Datos\obj\Release\Datos.Properties.Resources.resources
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\Datos\obj\Release\Datos.csproj.GenerateResource.Cache
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\Datos\obj\Release\Datos.dll
+G:\ProyectosVS\ControlArriendos\ControlArriendos20180823\Datos\obj\Release\Datos.pdb
